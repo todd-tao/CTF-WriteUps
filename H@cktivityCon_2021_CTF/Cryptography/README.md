@@ -8,6 +8,7 @@ Difficulty: Easy
 Description:  
 So much of crypto is all about shapes! Since some shapes have so many special sides :)  
 ![image](Hexahedron/1.png)
+
 Cipher is [here](Hexahedron/hexahedron.txt).
 
 ### Solution

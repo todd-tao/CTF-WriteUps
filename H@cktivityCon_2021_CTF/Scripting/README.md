@@ -12,6 +12,7 @@ The basic idea is writing a secript to answer the question automatically.
 You can find script [here](Words_Chruch/words.py).
 
 ![image](Words_Chruch/1.png)
+
 **flag{ac670e1f34da9eb748b3f241eb03f51b}**
 
 ---

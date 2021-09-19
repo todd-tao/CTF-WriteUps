@@ -2,10 +2,11 @@
 from September 16, 1:30 PM PST - September 18, 1:30 PM PST
 48-Hour Competition
 
+![Certificate](Certificate.png)
 
 | Team name | Socore | Place    | Members |
 | --------- | ------ | -------- | ------- |
-| **bugs4**     | 1932   | **178**/1721 | h4td    |
+| **bugs4**     | 1932   | **177**/1721 | h4td    |
 
 ## Completed Challenges
 Completed challenges I did:

@@ -50,11 +50,15 @@ Supposedly they learned their lesson and tried to make this one more secure. Can
 ### Solution
 ![image](Integrity/1.png)
 
-Command injection
-bypass filiter `\n` 
+Command injection bypass filter `\n` 
 
-command injection cheating sheet: https://hackersonlineclub.com/command-injection-cheatsheet/
+I have used MaxHackbar addon for this challenge.After installing this addon/extension,the steps is as under:
+1) You need to click on Load URL first to load the URL.
+2) You need to type ```file=\ncat flag.txt``` as your post data to get the contents of the flag.txt file. And hence you will get the flag.
 
+command injection cheatsheet: https://hackersonlineclub.com/command-injection-cheatsheet/
+
+Note : Addon/Extension used here is available on https://addons.mozilla.org/en-US/firefox/ .
 ---
 
 ## OPA Secrets

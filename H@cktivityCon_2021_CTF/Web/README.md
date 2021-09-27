@@ -1,7 +1,7 @@
 # Web
 
 ## Swaggy
-Category: Web
+Category: Web  
 Difficulty: Easy
 
 Description:  
@@ -24,7 +24,7 @@ flag{e04f962d0529a4289a685112bf1dcdd3}
 
 
 ## Confidentiality
-Category: Web
+Category: Web  
 Difficulty: Easy
 
 Description:  
@@ -39,7 +39,7 @@ It is a command injection.
 ---
 
 ## Integrity
-Category: Web
+Category: Web  
 Difficulty: Medium
 
 Description:  
@@ -58,7 +58,7 @@ command injection cheating sheet: https://hackersonlineclub.com/command-injectio
 ---
 
 ## OPA Secrets
-Category: Web
+Category: Web  
 Difficulty: Hard
 
 Description:  
@@ -66,7 +66,7 @@ OPA! Check out our new secret management service
 
 
 ### Solution
-This is a code audit challenge.
+This is a code audit challenge.  
 After we look around the website, we find source code of the website.
 
 ![image](OPA_Secrets/1.png)

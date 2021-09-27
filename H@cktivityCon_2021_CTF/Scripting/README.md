@@ -24,7 +24,7 @@ Description:
 Your fingers too slow to smash, tbh.
 
 ### Solution
-The script is written by python3.
+The script is written by python3.  
 * using [pytesseract](https://github.com/madmaze/pytesseract) as orc to recognize numbers in the image
 * using requests to get url and post data  
 
